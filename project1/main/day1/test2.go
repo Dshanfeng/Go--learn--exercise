@@ -18,7 +18,7 @@ func main() {
 	fmt.Printf("n2的类型%T，n2 = %d\n", n2, n2)
 
 	// n3 := 22000
-	// var b bool = bool(n3)r
+	// var b bool = bool(n3)
 	// fmt.Println("b的类型%T,b = %t",b,b)
 	//错误的类型转换，其他类型是转不了布尔类型的
 
